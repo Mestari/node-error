@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "Mestari",
+    "email": "vmestari@gmail.com"
+  },
+  "name": "error",
+  "description": "Custom error object supposed to be used by REST http services",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Mestari/node-error",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mestari/node-error.git"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
